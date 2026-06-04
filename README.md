@@ -1,13 +1,42 @@
-# 💫 About Me:
-🔭 I specialize in AI and ML, focusing on computer vision, NLP, and bio-inspired algorithms.<br>
-🌱 Conducting research on AI bias and Artificial Immune Systems.<br>
-👯 Looking to collaborate on impactful AI projects.<br>
-🤝 Seeking help with exploring robotics.<br>
-📚 Book recommendation: "Life 3.0" by Max Tegmark.<br><br>
+<!-- github.com/Ananyasdrafts -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ananyagupta1905) [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:ananyag1019@gmail.com) 
+# Hi! I'm Ananya, and these are my drafts :)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![SpaCy](https://img.shields.io/badge/SpaCy-%23039BE5.svg?style=for-the-badge&logo=spaCy&logoColor=white) ![Langchain](https://img.shields.io/badge/Langchain-%23CC0000.svg?style=for-the-badge&logo=Langchain&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%230077B5.svg?style=for-the-badge&logo=Mathworks&logoColor=white) ![LLama](https://img.shields.io/badge/LLama-%2300FF00.svg?style=for-the-badge&logo=LLama&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-%23FFD700.svg?style=for-the-badge&logo=BERT&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+I build systems that **notice**. I'm drawn to the problems that quietly affect
+people, especially the ones no one is measuring yet, and to systems honest enough
+to say when they don't know.
+
+I named this account **drafts** on purpose. Everything here is in motion: a sketch,
+a revision, a system a little more trustworthy than it was yesterday. I'd rather
+show the thinking than hide the seams.
+
+```text
+  now  →  ML Engineer @ Agami AI  ·  LLM distillation, semantic pipelines
+  next →  MS @ NYU Courant  ·  Fall '26
+  here →  SF Bay Area  ·  building interpretable, reliable ML
+```
+
+### the drafting table
+- **MedMaps** `building` : forecasts health risks from a patient's vitals over time, and shows which signals drove each prediction
+- **Unbiased by Nature** `sketching` : spots bias in ML models with the Dendritic Cell Algorithm, an immune-inspired anomaly method
+- **(cv project)** `sketching` : real-time driver fatigue detection that stays reliable in poor lighting and flags low-confidence frames instead of guessing
+- **(assistive tech)** `scoping` : an assistive tool for navigating overstimulating public spaces
+
+### my engineering philosophy
+I question my own assumptions first. I like understanding how things break, it
+teaches me how to build them better. I want the work to matter not just because
+it's clever, but because it's kind.
+
+### currently
+- reading: *Klara and the Sun* (Ishiguro), and *The Order of Time* (Rovelli)
+- chasing: artificial immune systems, and what else they know how to defend
+- turning over: the extended mind thesis, where your tools stop being tools and start being part of how you think
+
+**off the clock:** basketball, scifi, anime, and a stack of books I keep adding to.
+I'm a little addicted to being a beginner, currently bad at swimming, beat
+production, and script analysis, and having a good time with it. Also with a tendency to go down theoretical rabbit holes about anything and everything, this world is a super interesting place.
+
+### reach me
+[email](mailto:ananyag1019@gmail.com) · [LinkedIn](https://linkedin.com/in/ananyagupta1905)
+
 
