@@ -17,7 +17,7 @@ show the thinking than hide the seams.
 ```
 
 ### the drafting table
-- **MedMaps** `shipped` : early-warning for continuous glucose monitors, forecasts lows and highs before they happen, with the reason. [live demo](https://ananyasdrafts.github.io/medmaps/) · expanding to more vitals (phase 2)
+- **MedMaps** `shipped` : early-warning for continuous glucose monitors, forecasts lows and highs before they happen, with the reason. [live demo](https://ananyasdrafts.github.io/medmaps/) · expanding next: real CGM data, then more vitals
 - **Unbiased by Nature** `sketching` : spots bias in ML models with the Dendritic Cell Algorithm, an immune-inspired anomaly method
 - **(cv project)** `sketching` : real-time driver fatigue detection that stays reliable in poor lighting and flags low-confidence frames instead of guessing
 - **(assistive tech)** `scoping` : an assistive tool for navigating overstimulating public spaces
