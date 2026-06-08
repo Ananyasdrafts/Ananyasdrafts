@@ -18,7 +18,7 @@ show the thinking than hide the seams.
 
 ### the drafting table
 - **MedMaps** `shipped` : early-warning for continuous glucose monitors, forecasts lows and highs before they happen, with the reason. [live demo](https://ananyasdrafts.github.io/medmaps/) · expanding next: real CGM data, then more vitals
-- **Unbiased by Nature** `shipped` : can an immune-inspired algorithm catch the local bias that standard fairness tools average away? a ground-truth study. [code](https://github.com/Ananyasdrafts/unbiased-by-nature)
+- **Unbiased by Nature** `shipped` : a ground-truth benchmark for finding local pockets of algorithmic bias, and an honest test of nature-inspired detectors. [code](https://github.com/Ananyasdrafts/unbiased-by-nature)
 - **(cv project)** `sketching` : real-time driver fatigue detection that stays reliable in poor lighting and flags low-confidence frames instead of guessing
 - **(assistive tech)** `scoping` : an assistive tool for navigating overstimulating public spaces
 
