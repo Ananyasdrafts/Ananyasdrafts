@@ -2,7 +2,7 @@
 
 # Hi! I'm Ananya, and these are my drafts :)
 
-I build systems that **notice**. I'm drawn to the problems that quietly affect
+I'm drawn to the problems that quietly affect
 people, especially the ones no one is measuring yet, and to systems honest enough
 to say when they don't know.
 
